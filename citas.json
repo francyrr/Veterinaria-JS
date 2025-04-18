@@ -12,5 +12,12 @@
     "tipo": "gato",
     "color": "gris",
     "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Canela",
+    "edad": "2años",
+    "tipo": "hamster",
+    "color": "marron",
+    "enfermedad": "quiste"
   }
 ]
